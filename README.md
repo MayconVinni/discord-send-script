@@ -34,6 +34,14 @@ to the channel of the ID `1234567890`
 by using your token `TOKEN_HERE_ISiDjNDLsOSoFKFnFl`
 and will print the line, the ID and the content of the message sent in the terminal (`--verbose`).
 
-## Is this against Discord's TOS?
+## Questions and Answers
+
+Some questions and answers before you can start using this program.
+
+### I can use my bot token?
+
+I already tested it and no, you can't. (I tested with `"Bot TOKEN_HERE_ISiDjNDLsOSoFKFnFl"` instead of just `TOKEN_HERE_ISiDjNDLsOSoFKFnFl`.)
+
+### Is this against Discord's TOS?
 
 Idk, but it prob is.
